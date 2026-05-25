@@ -1,0 +1,6 @@
+model,threshold,true_negative,false_positive,false_negative,true_positive
+LogisticRegression,0.5,1444,5,44,7
+RandomForest,0.5,1447,2,32,19
+XGBoost,0.5,1446,3,18,33
+MLPClassifier,0.5,1443,6,35,16
+CostSensitive_XGBoost,0.52,1379,70,8,43

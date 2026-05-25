@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+data/raw/
+data/processed/
+results/models/
+
+report/*.docx
+*.zip

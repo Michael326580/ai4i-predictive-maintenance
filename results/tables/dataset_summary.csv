@@ -1,0 +1,12 @@
+item,value
+total_samples,10000.0
+normal_samples,9661.0
+failure_samples,339.0
+failure_ratio,0.0339
+input_feature_count_after_encoding,8.0
+train_samples,7000.0
+validation_samples,1500.0
+test_samples,1500.0
+train_failure_samples,237.0
+validation_failure_samples,51.0
+test_failure_samples,51.0

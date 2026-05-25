@@ -1,0 +1,2 @@
+model,objective,threshold,validation_precision,validation_recall,validation_f1
+CostSensitive_XGBoost,maximize F1 under Recall >= 0.80,0.52,0.4583333333333333,0.8627450980392157,0.5986394557823129
